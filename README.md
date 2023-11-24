@@ -11,6 +11,5 @@
 
 <p>
 </p>
- <img height="335em" src="https://www.cultura.sp.gov.br/wp-content/uploads/2018/01/af-Klint-Hilm_Svanen-971x980-1.jpg"/>
+ <img height="200em" src="https://media1.giphy.com/media/L8SGhJAkFFA8U/giphy.gif"/>
 
-<i>Hilma Af Klimt,The Swan, No.2</i>
